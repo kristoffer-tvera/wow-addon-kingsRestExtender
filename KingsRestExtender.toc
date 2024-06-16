@@ -1,4 +1,4 @@
-## Interface: 100206
+## Interface: 100207, 110000
 ## Version: v10.2.6
 ## Title: KingsRestExtender
 ## Notes: Extend lockout for kings rest

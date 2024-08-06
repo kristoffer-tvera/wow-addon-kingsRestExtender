@@ -1,8 +1,7 @@
-## Interface: 100207, 110000
-## Version: v10.2.6
+## Interface: 110002
+## Version: v11.0.2
 ## Title: KingsRestExtender
 ## Notes: Extend lockout for kings rest
 ## Author: _bzl
-## Version: 0.1
 
 KingsRestExtender.lua

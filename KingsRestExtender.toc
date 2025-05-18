@@ -1,5 +1,5 @@
-## Interface: 110105
-## Version: v11.1.5
+## Interface: 110105, 110107
+## Version: v11.1.7
 ## Title: KingsRestExtender
 ## Notes: Extend lockout for kings rest
 ## Author: _bzl
